@@ -16,10 +16,10 @@ Create a new application, by entering the required details
 Check your Telegram saved messages section to copy the STRING_SESSION"""
 )
 API_KEY = int(input("Enter API_KEY here: "))
-API_HASH = input("Enter API_HASH here: ")
+API_HASH = input("Enter API_HASH here:002cf61bb3081758036578d91d42bcf9 ")
 
 with TelegramClient(StringSession(), API_KEY, API_HASH) as client:
-    print("Check Telegram Save Message Mu Untuk Copy STRING_SESSION ")
+    print("1BVtsOKEBu16vYuMnCz2kk3gDHFn5xkjMg5tN88CHr6i2nQ0_l5MpcGSu7stPMzpbXpcUbQju2JgOYBlQfTj-hu85oeoPh-1zHMQxAZxUnotj5JC1esEO0fcMX27Ar4YBz821uY3B06L6aLIkF3tqbVOQHVQ24sVAGvgaHKwO95fL9y3j8BHOxYXCPMAer0vKoIbF-SGHAsQdFJIRHsoh-OpiNjbkA2eWgRVdSPwUoyLVqNfCy21kFN1W4yEE5DutuGx5ATHPfmTvPlocYUdwhpsKWLild4FcdPRBoMSApRxOXyqmtgl0fSXt_E3K7PUCFIn71EGJcBSNpfTCaAIOoIgrpYA4cpE= ")
     session_string = client.session.save()
     saved_messages_template = """Grup Support @AyiinXdSupport
 
